@@ -106,7 +106,8 @@ nav.BB
  nav ul a
  {
  	text-decoration: none;
-	color:rgb(250, 40, 40) ;
+   text-align: center;
+	color:rgb(209, 1, 1) ;
  }
 
  nav ul li:hover
